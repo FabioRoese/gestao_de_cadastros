@@ -4,3 +4,5 @@ Site criado com React utilizando a mentoria do professor Douglas Morais
 
 Dados no localstorage
 
+https://gestaodecadastroshc.netlify.app/
+
